@@ -1,4 +1,6 @@
+
 ## Hi 👋, I'm Marlon Ortega
+<img src="./profile.jpg" width="200">
 A passionate developer
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
