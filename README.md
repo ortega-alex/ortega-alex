@@ -1,6 +1,10 @@
 
 ## Hi 👋, I'm Marlon Ortega
+
 <img src="./profile.jpg" width="200">
+
+<a href="https://m-ortega.com" target='_blank' rel='noreferrer'>Home page</a>
+
 A passionate developer
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
